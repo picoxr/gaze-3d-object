@@ -3,15 +3,15 @@
 
 ## Unity_Demo_Gaze3dObject
 
-## Unity_Versions：
-- 2017.1.0f3 Or UP
+## Unity Versions：
+- 2017.1.0f3 and later
 
-## Explain：
+## Description：
 
-- Realize the interactive function of 3D object staring
+- Implement the interactive function of 3D object gaze on Pico device
 
-## Use：
-- Find： Assets -> Resources -> Scenes -> GazeWith3dObjectTest
-- Move the control cursor onto the Cube, and the operation is implemented two seconds later
+## Usage：
+- Scene： Assets -> Resources -> Scenes -> GazeWith3dObjectTest
+- Move and place the cursor on the Cube for two seconds to trigger OnClick event.
 
 
