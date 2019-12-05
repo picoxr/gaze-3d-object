@@ -2,7 +2,7 @@
 ## Unity_Demo_Gaze3dObject
 
 ## Unity Versions：
-- 2017.1.0f3 and later
+- 2017.4 and later
 
 ## Description：
 
